@@ -1,7 +1,3 @@
-
-
-
-
 # Password_checker
 > This is a password checker to validate passwords and check how many times a password has already been used. 
 
